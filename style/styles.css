@@ -1,0 +1,48 @@
+/* - - BODY - - */
+
+body {
+    background-color: bisque;
+}
+
+/* - - CONTENT - - */
+
+#top-welcome {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+#flexbox-wrap {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.flexbox-title {
+    display: flex;
+    width: 200px;
+    height: 175px;
+    justify-content: center;
+    align-content: center;
+    background-color: aqua;
+    border-top: 2px solid black;
+    border-right: 1px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+}
+
+.flexbox-content {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 750px;
+    height: 175px;
+    justify-content: center;
+    align-content: center;
+    background-color: aquamarine;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+}
+
