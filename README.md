@@ -1,2 +1,2 @@
 # flex-arrangement
-A simple Page to test content-arrangement by using flex
+This is to become familiar with the arrangement of html-content using flex in CSS.
