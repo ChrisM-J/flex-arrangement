@@ -24,6 +24,7 @@ body {
     height: 175px;
     justify-content: center;
     align-content: center;
+    text-align: center;
     background-color: aqua;
     border-top: 2px solid black;
     border-right: 1px solid black;
